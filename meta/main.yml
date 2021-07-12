@@ -9,12 +9,9 @@ galaxy_info:
   platforms:
     - name: Ubuntu
       versions:
-        - 'xenial'
-        - 'bionic'
-    - name: EL
-      versions:
-        - '7'
+        - "focal"
+        - "bionic"
 
   galaxy_tags:
-    - 'nvidia'
-    - 'docker'
+    - "nvidia"
+    - "docker"
